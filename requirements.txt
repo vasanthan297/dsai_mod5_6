@@ -1,5 +1,4 @@
 flask
 gunicorn
 google-generativeai
-openai
-markdown2
+pysqlite3
